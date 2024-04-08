@@ -1,0 +1,19 @@
+body{
+    background-image: url(bac.jpg);
+    background-size:cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+h1{
+    color:black;"
+}
+div{
+    display: flex;
+    justify-content:left;
+    align-items:left;
+    width: 1400px;
+    height: 1500px;
+    padding-bottom:50px;
+    font-weight:2px;
+    font-size: larger;
+}
